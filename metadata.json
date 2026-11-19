@@ -1,0 +1,6 @@
+{
+  "name": "Song to Keyboard Notes",
+  "description": "Transcribe songs and audio clips into piano keyboard MIDI notes in the browser using Magenta OnsetsAndFrames and TensorFlow.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
